@@ -8,7 +8,7 @@ Problem Statement
 
 # Steps:
 1. Pre-requisites
-Below softwares must be installed for this code to run.
+Below softwares must be installed for this code to run. Refer last section for detailed steps for installing these pre-requisites.
     1. Docker
     2. Terraform
     3. Git
@@ -20,7 +20,7 @@ Below softwares must be installed for this code to run.
   
 A running version is deployed at http://54.166.239.89/Home.html
   
-# Installation Guide for Ubuntu 18.x
+# Installation of Pre-requisites for Ubuntu 18.x
 
 A) Install Docker- Refer: 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
