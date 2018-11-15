@@ -16,7 +16,7 @@ Below softwares must be installed for this code to run.
 
 2. Clone this repository `git clone https://github.com/cprithviraj/infraascode.git`
 3. Execute `sudo ./entrypoint.sh`
-4. Test with http://<server IP>/Home.html
+4. Test with http://serverIP/Home.html
   
 A running version is deployed at http://54.166.239.89/Home.html
   
